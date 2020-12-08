@@ -1,0 +1,6 @@
+- file: landing
+
+- part: Misclassifications
+  chapters:
+    - file: misclass_rate
+    - file: cond_feature_distr
